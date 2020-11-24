@@ -4,6 +4,7 @@
 #roundedcorners {
 border-radius: 25px;
 background: #ff1616;
+opacity: 0.4;
 padding: 20px;
 width: 200px;
 height:150px;
