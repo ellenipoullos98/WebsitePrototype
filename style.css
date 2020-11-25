@@ -39,7 +39,7 @@ margin: auto;
 width: 50%;
 border-radius: 25px;
 background: #ff1616;
-opacity: 0.7;
+opacity: 0.9;
 padding: 10px;
 width: 370px;
 height: 400px;
@@ -48,11 +48,22 @@ height: 400px;
 /* form type text assets*/
 input[type=text], select {
   width: 90%;
-  padding: 15px 20px;
+  padding: 10px 20px;
   margin: 8px;
   display: inline-block;
   border: 1px solid #f8f6f6;
-  border-radius: 4px;
+  border-radius: 5px;
   box-sizing:border-box;
 }
 
+/* form type submit assets*/
+input[type=submit] {
+  width: 20%;
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  margin: 8px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
