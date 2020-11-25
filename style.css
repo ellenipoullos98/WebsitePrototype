@@ -30,6 +30,8 @@ padding: 50px;
 
 /* rounded corners for boxes*/
 .roundedcorners {
+margin: auto;
+width: 50%;
 border-radius: 25px;
 background: #ff1616;
 opacity: 0.7;
