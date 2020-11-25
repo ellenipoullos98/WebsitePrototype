@@ -58,12 +58,18 @@ input[type=text], select {
 
 /* form type submit assets*/
 input[type=submit] {
+  float: right;
   width: 20%;
   background-color: blue;
   color: white;
   padding: 10px 20px;
-  margin: 8px;
+  margin: 30px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
+}
+
+/* form type hover assets*/
+input[type=submit]:hover {
+  background-color: lightblue;
 }
