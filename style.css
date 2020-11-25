@@ -6,6 +6,12 @@
   font-family: Lato;
 }
 
+h1 {
+  font-size: 2em;
+  color: white;
+  font-family: lato;
+}
+
 body {
   margin: 0;
   font-family: Lato; 
