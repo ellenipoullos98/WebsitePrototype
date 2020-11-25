@@ -16,10 +16,16 @@ body {
   overflow: hidden;
   background-color: #ff1616;
 }
-
+/*signup, background image plus border, signup*/
 .signup {
   background-image: url("image1.jpg");
   padding: 250px;
+}
+
+/*footer assets*/
+.footer {
+background-color: #ff1616;
+padding: 50px;
 }
 
 /* rounded corners for boxes*/
