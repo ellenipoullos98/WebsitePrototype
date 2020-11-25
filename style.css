@@ -47,9 +47,9 @@ height: 400px;
 
 /* form type text assets*/
 input[type=text], select {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
+  width: 90%;
+  padding: 15px 20px;
+  margin: 8px;
   display: inline-block;
   border: 1px solid #f8f6f6;
   border-radius: 4px;
