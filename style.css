@@ -1,7 +1,10 @@
 
 
+body {
+    background-image: src ('image1.jpg');
+  } 
 
-#roundedcorners {
+roundedcorners {
 border-radius: 25px;
 background: #ff1616;
 opacity: 0.4;
