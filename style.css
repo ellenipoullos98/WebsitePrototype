@@ -17,6 +17,11 @@ body {
   background-color: #ff1616;
 }
 
+.signup {
+  background-image: url("image1.jpg");
+  padding: 250px;
+}
+
 /* rounded corners for boxes*/
 roundedcorners {
 border-radius: 25px;
