@@ -11,6 +11,10 @@ body {
   font-family: Lato; 
 }
 
+ul li {
+  list-style: none;
+}
+
 /*nav assets*/
 .nav {
   overflow: hidden;
@@ -19,7 +23,7 @@ body {
 /*signup, background image plus border, signup*/
 .signup {
   background-image: url("image1.jpg");
-  padding: 250px;
+  padding: 100px;
 }
 
 /*footer assets*/
@@ -35,7 +39,7 @@ width: 50%;
 border-radius: 25px;
 background: #ff1616;
 opacity: 0.7;
-padding: 20px;
+padding: 10px;
 width: 370px;
 height: 400px;
 }
