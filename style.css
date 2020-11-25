@@ -29,8 +29,8 @@ ul {
   text-align: center;
 }
 
-/*nav assets*/
-.nav {
+/*topbar assets*/
+.topbar {
   overflow: hidden;
   background-color: #ff1616;
 }
@@ -38,6 +38,11 @@ ul {
 .signup {
   background-image: url("image1.jpg");
   padding: 100px;
+}
+
+/*content assets */
+.content{
+
 }
 
 /*footer assets*/
