@@ -1,9 +1,17 @@
 
 
-body {
-    background-image: src ('image1.jpg');
-  } 
+/* fonts etc*/
+* {
+  box-sizing: border-box;
+  font-family: Lato;
+}
 
+body {
+  margin: 0;
+  font-family: Lato; 
+}
+
+/* rounded corners for boxes*/
 roundedcorners {
 border-radius: 25px;
 background: #ff1616;
