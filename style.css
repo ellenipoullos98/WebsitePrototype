@@ -11,6 +11,12 @@ body {
   font-family: Lato; 
 }
 
+/*nav assets*/
+.nav {
+  overflow: hidden;
+  background-color: #ff1616;
+}
+
 /* rounded corners for boxes*/
 roundedcorners {
 border-radius: 25px;
