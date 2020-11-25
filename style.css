@@ -11,8 +11,9 @@ body {
   font-family: Lato; 
 }
 
-ul li {
+ul {
   list-style: none;
+  text-align: center;
 }
 
 /*nav assets*/
