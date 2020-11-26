@@ -138,3 +138,32 @@ height: 200px;
   padding: 70px;
   margin: 0px;
 }
+
+/*contact*/
+.contact {
+  background-image: url("image6.jpg");
+  left: 0px;
+  right: 0px;
+  padding: 100px;
+}
+
+/* contactcontainer*/
+.contactcontainer {
+margin: auto;
+width: 50%;
+border-radius: 25px;
+background: #ff1616;
+opacity: 0.9;
+padding: 50px;
+width: 400px;
+height: 300px;
+}
+
+/*contact footer assets*/
+.footerc {
+background-color: #ff1616;
+padding: 100px;
+left: 0px;
+right: 0px;
+margin:0px;
+}
