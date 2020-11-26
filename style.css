@@ -24,7 +24,7 @@ h1{
 /*welcome*/
 .welcome {
   background-image: url("image1.jpg");
-  padding: 100px;
+  padding: 200px;
 }
 
 /*contentmainpage*/
@@ -36,7 +36,10 @@ h1{
 /*footer assets*/
 .footer {
 background-color: #ff1616;
-padding: 50px;
+padding: 10px;
+left: 0px;
+right: 0px;
+margin:0px;
 }
 
 /* rounded corners for boxes*/
@@ -45,8 +48,8 @@ margin: auto;
 width: 50%;
 border-radius: 25px;
 background: #ff1616;
-opacity: 0.7;
-padding: 10px;
-width: 370px;
-height: 400px;
+opacity: 0.9;
+padding: 50px;
+width: 400px;
+height: 200px;
 }
