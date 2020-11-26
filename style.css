@@ -17,6 +17,12 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: black;
+  font: 'Lato';
+  text-align: left;
+}
+
 h3 {
   color:white;
   font: 'Lato';
@@ -32,6 +38,7 @@ h3 {
 /*content*/
 .center {
   display: block;
+  padding: 20px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -56,6 +63,8 @@ h3 {
 /*welcome*/
 .welcome {
   background-image: url("image1.jpg");
+  left: 0px;
+  right: 0px;
   padding: 200px;
 }
 
