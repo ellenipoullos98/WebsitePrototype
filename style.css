@@ -6,44 +6,31 @@
   font-family: Lato;
 }
 
-h1 {
-  font-size: 2em;
-  color: white;
-  font-family: lato;
-}
-
-h2 {
-  font-size: 1.5em;
-  color:white;
-  font-family: lato;
-  text-align: center;
-}
-
 body {
   margin: 0;
   font-family: Lato; 
 }
 
-ul {
-  list-style: none;
-  text-align: center;
+h1{
+  color:white;
+  font-type: "Lato";
 }
 
-/*topbar assets*/
-.topbar {
+/*nav assets*/
+.nav {
   overflow: hidden;
   background-color: #ff1616;
 }
-/*signup, background image plus border, signup*/
-.signup {
+/*welcome*/
+.welcome {
   background-image: url("image1.jpg");
   padding: 100px;
 }
 
-/*content assets */
-.content{
-background-color:black;
-padding: 100px;
+/*contentmainpage*/
+.content {
+  background-color: white;
+  padding: 100px;
 }
 
 /*footer assets*/
@@ -58,37 +45,8 @@ margin: auto;
 width: 50%;
 border-radius: 25px;
 background: #ff1616;
-opacity: 0.9;
+opacity: 0.7;
 padding: 10px;
-width: 300px;
+width: 370px;
 height: 400px;
-}
-
-/* form type text assets*/
-input[type=text], select {
-  width: 90%;
-  padding: 10px 20px;
-  margin: 8px;
-  display: inline-block;
-  border: 1px solid #f8f6f6;
-  border-radius: 5px;
-  box-sizing:border-box;
-}
-
-/* form type submit assets*/
-input[type=submit] {
-  float: right;
-  width: 30%;
-  background-color: blue;
-  color: white;
-  padding: 10px 20px;
-  margin: 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-/* form type hover assets*/
-input[type=submit]:hover {
-  background-color: lightblue;
 }
