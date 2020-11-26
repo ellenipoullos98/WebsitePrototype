@@ -29,6 +29,12 @@ h3 {
   text-align: center;
 }
 
+h4 {
+  color: black;
+  font: 'Lato';
+  text-align: left;
+}
+
 .centre {
   display: block;
   margin-left: 48%;
