@@ -58,6 +58,20 @@ h3 {
   padding: 500px;
 }
 
+/* two image container*/
+.column{
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/*clear floats*/
+.row::after {
+content: " ";
+clear: both;
+display: table;
+}
+
 /*footer assets*/
 .footer {
 background-color: #ff1616;
