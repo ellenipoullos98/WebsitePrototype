@@ -23,6 +23,12 @@ h3 {
   text-align: center;
 }
 
+.centre {
+  display: block;
+  margin-left: 48%;
+  margin-right: auto;
+}
+
 /*nav assets*/
 .nav {
   overflow: hidden;
@@ -33,7 +39,7 @@ h3 {
 .nav a {
   float: left;
   display: block;
-  color: #ff1616;
+  color: #f2f2f2;
   text-align: centre;
   padding: 14px 16px;
   text-decoration: none;
