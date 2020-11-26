@@ -3,17 +3,16 @@
 /* fonts etc*/
 * {
   box-sizing: border-box;
-  font-family: Lato;
+  font-family: 'Lato';
 }
 
 body {
   margin: 0;
-  font-family: Lato; 
 }
 
 h1{
   color:white;
-  font-type: "Lato";
+  font-type: 'Lato';
 }
 
 /*nav assets*/
