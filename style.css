@@ -10,9 +10,17 @@ body {
   margin: 0;
 }
 
-h1{
+/*mainpage*/
+h1 {
   color:white;
-  font-type: 'Lato';
+  font: 'Lato';
+  text-align: center;
+}
+
+h3 {
+  color:white;
+  font: 'Lato';
+  text-align: center;
 }
 
 /*nav assets*/
@@ -20,6 +28,18 @@ h1{
   overflow: hidden;
   background-color: #ff1616;
 }
+
+/*nav link assets*/
+.nav a {
+  float: left;
+  display: block;
+  color: #ff1616;
+  text-align: centre;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
 /*welcome*/
 .welcome {
   background-image: url("image1.jpg");
