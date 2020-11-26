@@ -29,6 +29,13 @@ h3 {
   margin-right: auto;
 }
 
+/*content*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*nav assets*/
 .nav {
   overflow: hidden;
@@ -55,22 +62,10 @@ h3 {
 /*contentmainpage*/
 .content {
   background-color: white;
-  padding: 500px;
+  padding: 100px;
+  margin: 0px;
 }
 
-/* two image container*/
-.column{
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-/*clear floats*/
-.row::after {
-content: " ";
-clear: both;
-display: table;
-}
 
 /*footer assets*/
 .footer {
