@@ -96,7 +96,8 @@ opacity: 0.5%;
 .packagecontent {
   background-color: black;
   padding: 100px;
-  margin: 0px;
+  margin: auto;
+  align: center;
   display:inline-block;
 }
 
@@ -157,6 +158,14 @@ opacity: 0.9;
 padding: 50px;
 width: 400px;
 height: 300px;
+}
+
+/*packageformcontent*/
+.package {
+  background-color: white;
+  left: 0px;
+  right: 0px;
+  padding: 100px;
 }
 
 /*contact footer assets*/
