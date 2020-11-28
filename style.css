@@ -49,6 +49,10 @@ h4 {
   margin-right: auto;
 }
 
+.right {
+  float: right;
+}
+
 /*nav assets*/
 .nav {
   overflow: hidden;
@@ -90,6 +94,13 @@ opacity: 0.5%;
   background-color: white;
   padding: 100px;
   margin: 0px;
+}
+
+/*contentaboutus*/
+.aboutcontent {
+  background-color: white;
+  padding: 100px;
+  display: inline-block;
 }
 
 /*packagecontent*/
@@ -166,6 +177,35 @@ height: 300px;
   left: 0px;
   right: 0px;
   padding: 100px;
+}
+
+.formcontain {
+  background-color: white;
+  padding: 70px;
+  margin: 0px;
+}
+
+/* packcontainers*/
+.packcontainers {
+margin: auto;
+width: 50%;
+border-radius: 25px;
+background: black;
+opacity: 0.9;
+padding: 10px;
+width: 500px;
+height: 400px;
+}
+
+/*about us text*/
+.abouttext {
+width: 50%;
+border-radius: 25px;
+background: #ff1616;
+opacity: 0.9;
+padding: 10px;
+width: 200px;
+height: 200px;
 }
 
 /*contact footer assets*/
