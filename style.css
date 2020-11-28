@@ -162,7 +162,7 @@ height: 300px;
 
 /*packageformcontent*/
 .package {
-  background-color: white;
+  background-image: url("image2.jpg");
   left: 0px;
   right: 0px;
   padding: 100px;
@@ -175,4 +175,45 @@ padding: 100px;
 left: 0px;
 right: 0px;
 margin:0px;
+}
+
+/* copied from previous push - package form*/
+/* form type text assets*/
+input[type=text], select {
+  width: 90%;
+  padding: 10px 20px;
+  margin: 8px;
+  display: inline-block;
+  border: 1px solid #f8f6f6;
+  border-radius: 5px;
+  box-sizing:border-box;
+}
+
+/* form type submit assets*/
+input[type=submit] {
+  float: right;
+  width: 30%;
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  margin: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* form type hover assets*/
+input[type=submit]:hover {
+  background-color: lightblue;
+}
+
+.formcontainer {
+margin: auto;
+width: 50%;
+border-radius: 25px;
+background: #ff1616;
+opacity: 0.9;
+padding: 10px;
+width: 300px;
+height: 400px;
 }
