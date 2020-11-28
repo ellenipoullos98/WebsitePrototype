@@ -189,6 +189,26 @@ input[type=text], select {
   box-sizing:border-box;
 }
 
+input[type=number], select {
+  width: 50%;
+  padding: 10px 20px;
+  margin: 8px;
+  display: block;
+  border: 1px solid #f8f6f6;
+  border-radius: 5px;
+  box-sizing:border-box;
+}
+
+input[type=month], select {
+  width: 50%;
+  padding: 10px 20px;
+  margin: 8px;
+  display: block;
+  border: 1px solid #f8f6f6;
+  border-radius: 5px;
+  box-sizing:border-box;
+}
+
 /* form type submit assets*/
 input[type=submit] {
   float: right;
@@ -215,5 +235,5 @@ background: #ff1616;
 opacity: 0.9;
 padding: 10px;
 width: 300px;
-height: 400px;
+height: 450px;
 }
